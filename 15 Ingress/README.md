@@ -32,7 +32,7 @@ You should have a load balancer deployed now. Please check if it's ready.
 3. Save changes by pressing *CTRL+O* and *CTRL-X*.
 4. Run: ``kubectl apply -f servicea.yaml``
 5. Create a new file by running ``nano serviceb.yaml``.
-6. Download [manifest file](./files/service2.yaml) and paste its contents to editor window.
+6. Download [manifest file](./files/serviceb.yaml) and paste its contents to editor window.
 7. Save changes by pressing *CTRL+O* and *CTRL-X*.
 8. Run: ``kubectl apply -f serviceb.yaml``
 
